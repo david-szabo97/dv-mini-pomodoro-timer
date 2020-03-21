@@ -15,6 +15,7 @@ Hozzátartozó magyarázó videó elérhető a YouTube-on: https://youtu.be/P1II
 - ha rövid szünet van, akkor a "Short Break" szöveget írja ki a maradék idő fölé
 - ha hosszú szünet van, akkor a "Long Break" szöveget írja ki a maradék idő fölé
 - minden 4. pomodoro lejárta után, hosszú szünet legyen
+- amikor a visszaszámláló lejárt, játszunk le egy hangot (repóban találtok egy hangfájlt)
 
 ### Start / Pause / Reset gomb
 
